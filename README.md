@@ -7,7 +7,7 @@ Web Developer
 I started learning web development in June 2024, im enjoying to learning and make more quality website and project
 
 * 🌍  I'm based in Vietnam
-* 🖥️  See my portfolio at [My Portfolio](http://lwg13.github.io/LWG13-Portfolio)
+* 🖥️  See my portfolio at [My Portfolio](https://lwg13portfolio.vercel.app/)
 * ✉️  You can contact me at [tranlegiabao929@gmail.com](mailto:tranlegiabao929@gmail.com)
 * 🧠  I'm learning Frontend, Backend Technology, Framework and Web, App Technology
 
